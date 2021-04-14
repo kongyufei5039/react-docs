@@ -9,3 +9,5 @@ React 学习总结文档
 - [x] 组件通信
 - [x] Redux(1)
 - [x] Redux(2)
+- [ ] Virtual Dom
+- [ ] Stack Reconciler
