@@ -8,4 +8,4 @@ React 学习总结文档
 - [x] Hooks
 - [x] 组件通信
 - [x] Redux(1)
-- [ ] Redux(2)
+- [x] Redux(2)
